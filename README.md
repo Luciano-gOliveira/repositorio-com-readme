@@ -1,5 +1,5 @@
 # Projeto com readme (test)
-um projeto de teste com com um arquivo README 
+um projeto de teste com um arquivo README 
 🦉
 
 [<img src="./tela.gif" alt="gif da tela inicial do projeto xyz">](https://www.youtube.com/watch?v=0vL4BmoR-YQ)
